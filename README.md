@@ -60,11 +60,10 @@
 | W4D2 | bradyneal 12      | ●                                                            | ●    |
 | W4D3 | bradyneal 13      | ●                                                            | ●    |
 
-### [1 - A Brief Introduction to Causal Inference](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/introduction.ipynb?flush_cache=true)
+### [1 - A Brief Introduction to Causal Inference](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/1%20-%20A%20Brief%20Introduction%20to%20Causal%20Inference.ipynb?flush_cache=true)
 
-### [2 - Potential Outcomes](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch02_multi-armed_bandits/multi-armed_bandits.ipynb?flush_cache=true)
+### [2 - Potential Outcomes](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/2%20-%20Potential%20Outcomes.ipynb?flush_cache=true)
 
-### [3 - The Flow of Association and Causation in Graphs](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE)
+### [3 - The Flow of Association and Causation in Graphs](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/3%20-%20The%20Flow%20of%20Association%20and%20Causation%20in%20Graphs.ipynb?flush_cache=TRUE)
 
-### [4 - Causal Models](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE)
-
+### [4 - Causal Models](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Causal%20Models.ipynb?flush_cache=TRUE)
