@@ -50,10 +50,9 @@
 | W1D1 | bradyneal 1,2     | [▲](https://leequant761.github.io/2021/06/05/Reliable-Decision-Support-using-Counterfactual-Models/) |      |
 | W1D2 | bradyneal 3,4     |                                                              |      |
 | W1D3 | bradyneal 5       | [▲](https://leequant761.github.io/2021/05/01/General-Identification-Condition-for-Causal-Effects/) |      |
-| W2D1 | bradyneal 6       | ●                                                            |      |
-| W2D2 | bradyneal 6       | ●                                                            | ●    |
-| W2D3 | bradyneal 7       | ●                                                            | ●    |
-| W3D1 | bradyneal 8       | ●                                                            | ●    |
+| W2D1 | bradyneal 6       | [●](https://leequant761.github.io/2022/08/27/Meta-learners-for-Estimating-Heterogeneous-Treatment-Effect/)                                                            |      |
+| W2D3 | bradyneal 6       | [●](https://leequant761.github.io/2022/08/27/Double-Machine-Learning-for-Treatment-and-Structural-Parameters/)                                                            | ●    |
+| W3D1 | bradyneal 6       | ●                                                            | ●    |
 | W3D2 | bradyneal 9       | ●                                                            | ●    |
 | W3D3 | bradyneal 10      | ●                                                            | ●    |
 | W4D1 | bradyneal 11      | ●                                                            | ●    |
@@ -67,3 +66,7 @@
 ### [3 - The Flow of Association and Causation in Graphs](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/3%20-%20The%20Flow%20of%20Association%20and%20Causation%20in%20Graphs.ipynb?flush_cache=TRUE)
 
 ### [4 - Causal Models](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Causal%20Models.ipynb?flush_cache=TRUE)
+
+### [5 - Identification](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Identification.ipynb?flush_cache=TRUE)
+
+### [6 - Estimation](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Estimation.ipynb?flush_cache=TRUE)
