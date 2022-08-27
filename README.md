@@ -67,6 +67,6 @@
 
 ### [4 - Causal Models](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Causal%20Models.ipynb?flush_cache=TRUE)
 
-### [5 - Identification](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Identification.ipynb?flush_cache=TRUE)
+### [5 - Identification](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/5%20-%20Identification.ipynb?flush_cache=TRUE)
 
-### [6 - Estimation](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/4%20-%20Estimation.ipynb?flush_cache=TRUE)
+### [6 - Estimation](https://nbviewer.jupyter.org/github/leequant761/causal-inference-introduction/blob/master/lecture-note/6%20-%20Estimation.ipynb?flush_cache=TRUE)
